@@ -1,0 +1,14 @@
+.item{
+    text-align: center;
+}
+.cartNew{
+    display: flex;
+    grid-template-columns:  3fr 1fr;
+    margin-left: 50px;
+}
+.cartName{
+    margin-right: 20px;
+}
+.button{
+    text-align: center;
+}

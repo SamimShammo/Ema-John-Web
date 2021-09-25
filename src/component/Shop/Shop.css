@@ -1,0 +1,23 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.search-field{
+    background-color: grey;
+    text-align: center;
+    padding: 5px;
+}
+.search-field input{
+    width: 1000px;
+    height: 30px;
+}
+.product{
+    border: 1px solid lightgray;
+    margin-left: 100px;
+    margin-right: 10px;
+    
+    
+}
+.addToCart{
+    /* text-align: center */
+}

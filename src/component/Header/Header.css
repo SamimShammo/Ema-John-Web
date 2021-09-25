@@ -1,0 +1,23 @@
+.header{
+    text-align: center;
+}
+.header-logo{
+    height: 70px;
+
+}
+.manu{
+    background-color: black;
+    padding: 20px;
+}
+.manu a{
+    color: white;
+    text-decoration: none;
+    margin: 0px 20px;
+    padding: 10px 20px;
+    cursor: pointer;
+    
+}
+.manu a:hover{
+    background-color: white;
+    color: black;
+}
